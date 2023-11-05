@@ -15,7 +15,7 @@ This project is a basic implementation of a Sign-up Form using HTML and CSS. The
 
 - **Validation:** Basic client-side validation is in place to ensure email address matching and password length requirements.
 
-- **Submit Button:** Users can submit their information by clicking the "Sign Up" button.
+- **Submit Button:** Users can submit their information by clicking the "Create account" button.
 
 - **Styling:** The form is styled with CSS to provide a clean and visually appealing design.
 
