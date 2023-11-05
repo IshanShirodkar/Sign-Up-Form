@@ -3,7 +3,7 @@
 
 Preview(https://ishanshirodkar.github.io/Sign-Up-Form/)
 
-![Sign-up Form](screenshot.png](https://github.com/IshanShirodkar/Sign-Up-Form/blob/main/Screenshots/Screenshot%202023-11-05%20152314.png))
+![Sign-up Form](https://github.com/IshanShirodkar/Sign-Up-Form/blob/main/Screenshots/Screenshot%202023-11-05%20152314.png?raw=true)
 
 ## Description
 
